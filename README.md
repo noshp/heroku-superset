@@ -23,14 +23,14 @@ visualizing live project data in dashboards.
 
 ```
 # Setup
-mkvirtualenv datatogether-superset --python=`which python3`
+mkvirtualenv noshp-superset --python=`which python3`
 make pip-install
 make setup
 ```
 
 ```
 # Running
-workon datatogether-superset
+workon noshp-superset
 make run
 ```
 
