@@ -1,5 +1,5 @@
 repository:
-  name: datatogether-superset
+  name: noshp-superset
   description: Heroku-backed Superset instance for visualizing live project data.
-  homepage: https://datatogether-superset.herokuapp.com
+  homepage: https://noshp-superset.herokuapp.com/
   default_branch: master
