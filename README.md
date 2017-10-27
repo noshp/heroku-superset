@@ -1,4 +1,4 @@
-# Superset for BikeParking
+# Superset for noshp
 
 **[Heroku][]** is a platform for easily hosting web apps.
 
